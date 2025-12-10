@@ -6,7 +6,7 @@ app = Flask(__name__)
 users = {
     "user1": {"phone": "254700111222", "balance": 5000},
     "user2": {"phone": "254700333444", "balance": 3000},
-    "user3": {"phone": "254700333444", "balance": 6000},
+    "user3": {"phone": "254700777999", "balance": 6000},
     
 }
 
